@@ -1,0 +1,13 @@
+title: "一人開発を三役で回す"
+summary: "Claude Code を実運用するための設計書。判断・設計・実装の三役に分け、規律を構造に預ける。32件の失敗事例から導いた、一人でも回る開発体制。"
+topics: ["claudecode", "ai", "個人開発", "生産性", "claude"]
+published: false
+price: 1500
+chapters:
+  - ch1
+  - ch2
+  - ch3
+  - ch4
+  - ch5
+  - ch6
+  - ch7
